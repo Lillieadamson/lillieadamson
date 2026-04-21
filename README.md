@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Lillie Adamson 
 
-<!--
-**Lillieadamson/lillieadamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught coder based in Vancouver, BC. I love building things related to **law, data, culture, and literature**. I taught myself to code to bring my own ideas to life — the projects below are the result.
 
-Here are some ideas to get you started:
+## 🛠️ Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Canadian Case Tracker](https://github.com/Lillieadamson/canadian-case-tracker)** — A searchable static web app for Canadian court decisions with keyword search, tag filters, pagination, and shareable URLs. Built with vanilla JS, HTML & CSS.
+- **[Pinterest Board to PDF](https://github.com/Lillieadamson/Pinterest-Board-To-PDF-Public)** — A Python/Flask web app that scrapes a Pinterest board and exports it as a formatted PDF.
+- **[Policy Tracker](https://github.com/Lillieadamson/trump-policy-tracker)** — A JavaScript dashboard for tracking and visualizing political policy changes.
+
+## 💻 Tech I've picked up
+
+`JavaScript` `Python` `HTML` `CSS` `Flask` `GitHub Pages`
+
+## 📫 Connect
+
+- LinkedIn: [linkedin.com/in/lillie-adamson](https://www.linkedin.com/in/lillie-adamson)
