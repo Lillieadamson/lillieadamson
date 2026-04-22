@@ -1,4 +1,4 @@
-# Hi, I'm Lillie Adamson 
+# Hi, I'm Lillie  
 
 I'm a self-taught coder based in Vancouver, BC. I love building things related to **law, data, culture, and literature**. I taught myself to code to bring my own ideas to life — the projects below are the result.
 
