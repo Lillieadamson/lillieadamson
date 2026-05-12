@@ -1,7 +1,5 @@
 # Hi, I'm Lillie  
 
-I'm a self-taught "coder" based in Vancouver, BC. I love building things related to **law, data, culture, and literature**. I taught myself to code to bring my own ideas to life — the projects below are the result.
-
 ## 🛠️ Projects
 
 - **[Canadian Case Tracker](https://github.com/Lillieadamson/canadian-case-tracker)** — A searchable static web app for Canadian court decisions with keyword search, tag filters, pagination, and shareable URLs. Built with vanilla JS, HTML & CSS.
